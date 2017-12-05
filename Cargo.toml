@@ -1,0 +1,13 @@
+[package]
+name = "rust"
+version = "0.1.0"
+authors = ["Matt Hartley <m4tthartley@gmail.com>"]
+
+[dependencies]
+glutin = "*"
+gl = "*"
+piston = "*"
+piston2d-graphics = "*"
+pistoncore-glutin_window = "*"
+piston2d-opengl_graphics = "*"
+piston_window = "*"
